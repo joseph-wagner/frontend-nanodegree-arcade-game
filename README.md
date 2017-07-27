@@ -15,8 +15,11 @@ Then open up the `index.html` file in your favorite modern browser.
 ### Controls
 
 Move left: `left-arrow key`
+
 Move right: `right-arrow key`
+
 Move up: `up-arrow key`
+
 Move down: `down-arrow key`
 
 ### Objective
