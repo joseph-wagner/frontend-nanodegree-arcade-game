@@ -25,7 +25,7 @@ Move down: `down-arrow key`
 ### Objective
 The object of the game is to get the cat girl to the water as many times as possible.
 
-If you are successful in reaching the water, your score and the number of enemy bugs will be incremeted.
+If you are successful in reaching the water, your score and the number of enemy bugs will be incremented.
 
 If you collide with one of the enemy bugs, then your score and the game will be reset.
 
