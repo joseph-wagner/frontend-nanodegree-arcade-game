@@ -1,6 +1,29 @@
-frontend-nanodegree-arcade-game
-===============================
+# Project Description
 
-Students should use this [rubric](https://review.udacity.com/#!/projects/2696458597/rubric) for self-checking their submission. Make sure the functions you write are **object-oriented** - either class functions (like Player and Enemy) or class prototype functions such as Enemy.prototype.checkCollisions, and that the keyword 'this' is used appropriately within your class and class prototype functions to refer to the object the function is called upon. Also be sure that the **readme.md** file is updated with your instructions on both how to 1. Run and 2. Play your arcade game.
+This project is an HTML5 implementation of a Frogger-like arcade game.
 
-For detailed instructions on how to get started, check out this [guide](https://docs.google.com/document/d/1v01aScPjSWCCWQLIpFqvg3-vXLH2e8_SZQKC8jNO0Dc/pub?embedded=true).
+## Installation
+
+To install this game, simply run the following command in the terminal:
+
+`git clone https://github.com/joseph-wagner/frontend-nanodegree-arcade-game.git`
+
+Then open up the `index.html` file in your favorite modern browser.
+
+## How to Play
+
+### Controls
+
+Move left: `left-arrow key`
+Move right: `right-arrow key`
+Move up: `up-arrow key`
+Move down: `down-arrow key`
+
+### Objective
+The object of the game is to get the cat girl to the water as many times as possible.
+
+If you are successful in reaching the water, your score and the number of enemy bugs will be incremeted.
+
+If you collide with one of the enemy bugs, then your score and the game will be reset.
+
+Thank you for playing and good luck!
