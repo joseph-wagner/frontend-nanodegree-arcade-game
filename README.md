@@ -4,9 +4,11 @@ This project is an HTML5 implementation of a Frogger-like arcade game.
 
 ## Installation
 
-To install this game, simply run the following command in the terminal:
+To install this game, simply run the following commands in the terminal:
 
 `git clone https://github.com/joseph-wagner/frontend-nanodegree-arcade-game.git`
+
+`cd frontend-nanodegree-arcade-game/`
 
 Then open up the `index.html` file in your favorite modern browser.
 
